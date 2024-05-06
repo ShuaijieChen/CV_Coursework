@@ -48,7 +48,6 @@ When the video is finished, you should see a UI similar to this. Click "Exit" an
 The video data set I used stored under `inference/input/`, the output video stored
 under `inference/output/`. 
 
-**_Please note that when you use this program to generate a new video, it will erase all the files in the folder where you saved the video, so if you are going to run this program, it is best to create a new folder to store the output video._**
 
 ## Reference
 1) [Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)   
